@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\Nebula\\",
+  "WorkspaceRootPath": "D:\\Git\\Nebula-Browser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\browserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:browserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\browserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:browserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\browserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:browserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\browserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:browserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\controls\\dockbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:controls\\dockbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\controls\\dockbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:controls\\dockbutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\controls\\dockbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:controls\\dockbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\controls\\dockbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:controls\\dockbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\services\\windowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:services\\windowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\services\\windowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:services\\windowhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|d:\\git\\nebula\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C23792FA-1DEE-43BE-9359-49894FE03F19}|Nebula.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|d:\\git\\nebula-browser\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1339A9AF-B923-2F75-5195-7BCA0ECC0555}|Nebula.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,63 +44,59 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Git\\Nebula\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\Git\\Nebula\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAqwE4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:13:44.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T04:13:44.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BrowserWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Git\\Nebula\\BrowserWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\BrowserWindow.xaml.cs",
               "RelativeDocumentMoniker": "BrowserWindow.xaml.cs",
-              "ToolTip": "D:\\Git\\Nebula\\BrowserWindow.xaml.cs",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\BrowserWindow.xaml.cs",
               "RelativeToolTip": "BrowserWindow.xaml.cs",
               "ViewState": "AgIAAAIBAAAAAAAAAAAlwBEBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T02:09:08.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T02:09:08.478Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DockButton.xaml.cs",
-              "DocumentMoniker": "D:\\Git\\Nebula\\Controls\\DockButton.xaml.cs",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\Controls\\DockButton.xaml.cs",
               "RelativeDocumentMoniker": "Controls\\DockButton.xaml.cs",
-              "ToolTip": "D:\\Git\\Nebula\\Controls\\DockButton.xaml.cs",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\Controls\\DockButton.xaml.cs",
               "RelativeToolTip": "Controls\\DockButton.xaml.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAlwGAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T02:18:53.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T02:18:53.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DockButton.xaml",
-              "DocumentMoniker": "D:\\Git\\Nebula\\Controls\\DockButton.xaml",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\Controls\\DockButton.xaml",
               "RelativeDocumentMoniker": "Controls\\DockButton.xaml",
-              "ToolTip": "D:\\Git\\Nebula\\Controls\\DockButton.xaml",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\Controls\\DockButton.xaml",
               "RelativeToolTip": "Controls\\DockButton.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-19T02:18:13.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T02:18:13.759Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BrowserWindow.xaml",
-              "DocumentMoniker": "D:\\Git\\Nebula\\BrowserWindow.xaml",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\BrowserWindow.xaml",
               "RelativeDocumentMoniker": "BrowserWindow.xaml",
-              "ToolTip": "D:\\Git\\Nebula\\BrowserWindow.xaml",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\BrowserWindow.xaml",
               "RelativeToolTip": "BrowserWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwBwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-19T02:08:45.234Z",
               "EditorCaption": ""
@@ -109,27 +105,25 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WindowHelper.cs",
-              "DocumentMoniker": "D:\\Git\\Nebula\\Services\\WindowHelper.cs",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\Services\\WindowHelper.cs",
               "RelativeDocumentMoniker": "Services\\WindowHelper.cs",
-              "ToolTip": "D:\\Git\\Nebula\\Services\\WindowHelper.cs",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\Services\\WindowHelper.cs",
               "RelativeToolTip": "Services\\WindowHelper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:16:08.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T04:16:08.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Git\\Nebula\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Git\\Nebula-Browser\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\Git\\Nebula\\MainWindow.xaml",
+              "ToolTip": "D:\\Git\\Nebula-Browser\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-19T04:14:53.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T04:14:53.684Z"
             }
           ]
         }

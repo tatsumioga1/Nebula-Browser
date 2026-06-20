@@ -1,1 +1,1 @@
-D:\Git\Nebula\Nebula.csproj;x64
+D:\Git\Nebula-Browser\Nebula.csproj;x64

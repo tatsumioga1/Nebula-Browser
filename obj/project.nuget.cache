@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c01lB7J2rrM=",
+  "dgSpecHash": "IjCbStODwLk=",
   "success": true,
-  "projectFilePath": "D:\\Git\\Nebula\\Nebula.csproj",
+  "projectFilePath": "D:\\Git\\Nebula-Browser\\Nebula.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micro\\.nuget\\packages\\microsoft.web.webview2\\1.0.4022.49\\microsoft.web.webview2.1.0.4022.49.nupkg.sha512",
     "C:\\Users\\micro\\.nuget\\packages\\microsoft.windows.ai.machinelearning\\2.1.70\\microsoft.windows.ai.machinelearning.2.1.70.nupkg.sha512",

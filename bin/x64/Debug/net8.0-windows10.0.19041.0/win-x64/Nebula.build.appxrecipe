@@ -10,28 +10,28 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>08e7e92a-0605-42bc-8390-2103bf3577b0</PackageIdentityName>
     <PackageIdentityPublisher>CN=micro</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Git\Nebula\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Git\Nebula-Browser\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
+    <LayoutDir>D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.runtimeconfig.json">
       <PackagePath>Nebula.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>Nebula.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.dll">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.dll">
       <PackagePath>Nebula.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micro\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.28\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
@@ -706,34 +706,34 @@
     <AppxPackagedFile Include="C:\Users\micro\.nuget\packages\microsoft.web.webview2\1.0.4022.49\lib_manual\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.deps.json">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.deps.json">
       <PackagePath>Nebula.deps.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micro\.nuget\packages\microsoft.web.webview2\1.0.4022.49\build\..\lib\Microsoft.Web.WebView2.Core.winmd">
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

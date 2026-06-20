@@ -3335,11 +3335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\Nebula\\Nebula.csproj",
+      "projectUniqueName": "D:\\Git\\Nebula-Browser\\Nebula.csproj",
       "projectName": "Nebula",
-      "projectPath": "D:\\Git\\Nebula\\Nebula.csproj",
+      "projectPath": "D:\\Git\\Nebula-Browser\\Nebula.csproj",
       "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\Nebula\\obj\\",
+      "outputPath": "D:\\Git\\Nebula-Browser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

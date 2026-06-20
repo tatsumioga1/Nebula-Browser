@@ -10,13 +10,13 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>08e7e92a-0605-42bc-8390-2103bf3577b0</PackageIdentityName>
     <PackageIdentityPublisher>CN=micro</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Git\Nebula\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Git\Nebula-Browser\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
+    <LayoutDir>D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>B72AEF8082C4B73D4DE707308BDC2A6F0C45CCF3B8FAF8017913A686FF50C4F3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>08e7e92a-0605-42bc-8390-2103bf3577b0_1.0.0.0_x64__cnsc1k9bd01st</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>08e7e92a-0605-42bc-8390-2103bf3577b0_cnsc1k9bd01st!App</RegisteredUserModeAppID>
@@ -25,24 +25,24 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-06-19T05:34:30.401</Modified>
+      <Modified>2026-06-20T06:33:15.050</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.runtimeconfig.json">
       <PackagePath>Nebula.runtimeconfig.json</PackagePath>
-      <Modified>2026-06-18T22:17:59.929</Modified>
+      <Modified>2026-06-20T06:33:13.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>Nebula.exe</PackagePath>
-      <Modified>2026-06-19T05:34:29.002</Modified>
+      <Modified>2026-06-20T06:33:11.702</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.dll">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.dll">
       <PackagePath>Nebula.dll</PackagePath>
-      <Modified>2026-06-19T05:34:28.961</Modified>
+      <Modified>2026-06-20T06:33:11.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\micro\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.28\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -940,35 +940,35 @@
       <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
       <Modified>2026-06-02T19:20:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.deps.json">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\Nebula.deps.json">
       <PackagePath>Nebula.deps.json</PackagePath>
-      <Modified>2026-06-19T00:51:43.277</Modified>
+      <Modified>2026-06-20T06:33:13.491</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2026-06-17T15:17:16.431</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <Modified>2026-06-17T15:17:16.432</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <Modified>2026-06-17T15:17:16.433</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <Modified>2026-06-17T15:17:16.435</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <Modified>2026-06-17T15:17:16.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2026-06-17T15:17:16.438</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2026-06-17T15:17:16.441</Modified>
     </AppxPackagedFile>
@@ -976,7 +976,7 @@
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
       <Modified>2026-06-02T19:21:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Git\Nebula\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
+    <AppxPackagedFile Include="D:\Git\Nebula-Browser\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2026-06-19T05:34:29.719</Modified>
     </AppxPackagedFile>
