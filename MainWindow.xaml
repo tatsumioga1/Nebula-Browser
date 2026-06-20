@@ -1,0 +1,53 @@
+<Window
+    x:Class="Nebula.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid Padding="20">
+
+        <StackPanel Spacing="10">
+
+            <TextBlock
+                Text="Nebula"
+                FontSize="30"/>
+
+            <TextBox
+                x:Name="UrlBox"
+                PlaceholderText="Enter URL"
+                KeyDown="UrlBox_KeyDown"/>
+
+            <Button
+                Content="Open Website"
+                Click="OpenWebsite_Click"/>
+
+            <TextBlock
+                Text="Quick Launch"
+                Margin="0,20,0,0"/>
+
+            <StackPanel
+                Orientation="Horizontal"
+                Spacing="10">
+
+                <Button
+                    Content="YouTube"
+                    Click="YouTube_Click"/>
+
+                <Button
+                    Content="Netflix"
+                    Click="Netflix_Click"/>
+
+                <Button
+                    Content="ChatGPT"
+                    Click="ChatGPT_Click"/>
+
+                <Button
+                    Content="Spotify"
+                    Click="Spotify_Click"/>
+
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>
